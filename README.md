@@ -56,10 +56,6 @@
   </head>
   <body>
     
-      
-    <h1 data-heading="A men is born in 2000"> A men is born in 2000</h1>
-<!-- center this -->    <p> hi my name is emile, im from quebec <br> im black and yellow as u know <br> DIAMANT DIAMANT DIAMANT<br> je fais des <em> deudeudeu </em> pis des row </p>
-    
     <h2> RABADON <h2>
       
       <p>bonjour a tous et a tous c'est Diablox9 je suis diamant bonjour <strong class="strong"> RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON RABADON </strong></p>
